@@ -25,17 +25,3 @@ Used SQL, Tableau, Power BI, Excel tools to Extract, Transform, and Load (ETL) d
 •	Ultimately, an employee retention project aims to create a sustainable workforce where employees are motivated, productive, and aligned with the company's goals.
 
 
-
-
-*EXCEL DASHBOARD*
-
-![Excel Dashboard](asset/Excel_Dashboard.png)
-
-*POWERBI DASHBOARD*
-
-![PowerBi_Dashboard](asset/PowerBi_Dashbord.png)
-
-
-*Tableau DASHBOARD 1*
-
-![Tableau_Dashboard](asset/Tableau_Dashboard.png)
